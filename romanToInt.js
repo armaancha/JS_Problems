@@ -1,3 +1,6 @@
+// Convert a roman numeral to an integer.
+// For example, "LVIII" will return "58".
+
 function romanToInt(x){
   let m = new Map();
 
